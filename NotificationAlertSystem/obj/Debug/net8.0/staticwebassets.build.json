@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3DtWeBLoEbkDvBiJkszzX6vEejRcEu5UGY1g6R59zqI=",
+  "Source": "NotificationAlertSystemApi",
+  "BasePath": "_content/NotificationAlertSystemApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
